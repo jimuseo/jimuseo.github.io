@@ -1,6 +1,6 @@
 ---
 layout: default
-img: foto_kelas.jpg
+img: logo_si.jpg
 category: Services
 title: Jurusan Sistem Informasi
 description: |
