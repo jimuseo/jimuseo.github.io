@@ -5,5 +5,4 @@ category: Services
 title: Jurusan Sistem Informasi
 description: |
 ---
-Universitas Islam Negeri Sultan Syarif Kasim Riau mendirikan [Jurusan Sistem Informasi](http://sif.uin-suska.ac.id/) pada tahun ajaran 2002/2003 sejalan dengan rencana untuk meningkatkan status IAIN menjadi Universitas Islam Negeri (UIN) Riau, yang saat ini telah terlaksana. Hal ini didukung oleh Pemerintah Daerah Provinsi Riau, DPRD Riau dan masyarakat, dimana sarjana jurusan teknik sangat dibutuhkan oleh pasar kerja pada masa yang akan datang, terutama menyambut era otonomi daerah.
-
+Universitas Islam Negeri Sultan Syarif Kasim Riau mendirikan [Jurusan Sistem Informasi](http://sif.uin-suska.ac.id/) pada tahun ajaran 2002/2003 sejalan dengan rencana untuk meningkatkan status IAIN menjadi Universitas Islam Negeri (UIN) Riau, yang saat ini telah terlaksana.
