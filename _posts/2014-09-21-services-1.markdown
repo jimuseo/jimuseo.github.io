@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: uin-suska2.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: UNIVERSITAS ISLAM SULTAN SYARIF KASIM RIAU
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  [ Universitas Islam Negeri Sultan Syarif Kasim Riau](http://uin-suska.ac.id/) (disebut juga UIN Suska Riau) adalah Universitas Islam Negeri yang berada di Pekanbaru. Penamaannya dengan Sultan Syarif Kasim yaitu nama sultan ke-12 atau sultan terakhir Kesultanan Siak Sri Inderapura.
