@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
+img: foto_kelas.JPG
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Jurusan Sistem Informasi
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Universitas Islam Negeri Sultan Syarif Kasim Riau mendirikan [Jurusan Sistem Informasi](http://sif.uin-suska.ac.id/) pada tahun ajaran 2002/2003 sejalan dengan rencana untuk meningkatkan status IAIN menjadi Universitas Islam Negeri (UIN) Riau, yang saat ini telah terlaksana. Hal ini didukung oleh Pemerintah Daerah Provinsi Riau, DPRD Riau dan masyarakat, dimana sarjana jurusan teknik sangat dibutuhkan oleh pasar kerja pada masa yang akan datang, terutama menyambut era otonomi daerah.
+
+This template features the 'Lato' font, part of the , as well as [icons from Font Awesome](http://fontawesome.io).
