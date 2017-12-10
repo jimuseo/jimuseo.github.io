@@ -1,6 +1,6 @@
 ---
 layout: default
-img: uin_suska2.jpg
+img: uin_suska.jpg
 category: Services
 title: UNIVERSITAS ISLAM SULTAN SYARIF KASIM RIAU
 description: |
